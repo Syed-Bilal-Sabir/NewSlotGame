@@ -412,13 +412,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_10
+      name: DiamondIcn
       rect:
         serializedVersion: 2
-        x: 688
-        y: 1147
-        width: 170
-        height: 197
+        x: 694
+        y: 1154
+        width: 159
+        height: 184
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,13 +434,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_11
+      name: Jicn
       rect:
         serializedVersion: 2
-        x: 873
-        y: 1155
-        width: 148
-        height: 183
+        x: 880
+        y: 1158
+        width: 132
+        height: 172
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,10 +481,10 @@ TextureImporter:
       name: spriteatlas_13
       rect:
         serializedVersion: 2
-        x: 37
-        y: 885
-        width: 164
-        height: 171
+        x: 45
+        y: 893
+        width: 144
+        height: 158
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,13 +500,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_14
+      name: Kicn
       rect:
         serializedVersion: 2
-        x: 212
-        y: 879
-        width: 163
-        height: 177
+        x: 220
+        y: 885
+        width: 141
+        height: 166
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,13 +522,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_15
+      name: BonusIcn
       rect:
         serializedVersion: 2
-        x: 493
-        y: 944
-        width: 185
-        height: 186
+        x: 508
+        y: 959
+        width: 154
+        height: 166
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,13 +544,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_16
+      name: FreeSpinIcn
       rect:
         serializedVersion: 2
-        x: 689
-        y: 945
-        width: 358
-        height: 187
+        x: 897
+        y: 963
+        width: 132
+        height: 159
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,6 +697,50 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: ScatterIcn
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 952
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010c26c8c3a3c04489df68df6b85c35
+      internalID: 1989336110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qicn
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 157
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a260dc0d58f134797410ed571aa35a
+      internalID: 1481218415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -711,18 +755,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      BonusIcn: 5831498120442784602
       Borders: 192478523251562498
+      DiamondIcn: 655002811503768706
+      FreeSpinIcn: -7433845658982937281
+      Jicn: 5281778035995830354
+      Kicn: -3267913455876280778
       Pillar: 4198972775108417999
+      Qicn: 1481218415
+      ScatterIcn: 1989336110
       SlotBg: -3809047619170704775
       TopBorderSlot: -5134143732341596478
       purpleBg: 6441182072768732116
       spriteatlas_1: 3650529845429394761
-      spriteatlas_10: 655002811503768706
-      spriteatlas_11: 5281778035995830354
       spriteatlas_13: 1115531026085785587
-      spriteatlas_14: -3267913455876280778
-      spriteatlas_15: 5831498120442784602
-      spriteatlas_16: -7433845658982937281
       spriteatlas_17: 7055062863005965510
       spriteatlas_18: 6082263456909383666
       spriteatlas_19: 2981708555725563514
