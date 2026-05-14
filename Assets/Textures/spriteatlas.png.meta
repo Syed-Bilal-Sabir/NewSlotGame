@@ -192,13 +192,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spriteatlas_0
+      name: Pillar
       rect:
         serializedVersion: 2
         x: 0
-        y: 1083
-        width: 154
-        height: 965
+        y: 1486
+        width: 137
+        height: 552
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,13 +236,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_2
+      name: TopBorderSlot
       rect:
         serializedVersion: 2
-        x: 238
-        y: 1953
-        width: 831
-        height: 74
+        x: 240
+        y: 1957
+        width: 826
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,9 +712,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Borders: 192478523251562498
+      Pillar: 4198972775108417999
       SlotBg: -3809047619170704775
+      TopBorderSlot: -5134143732341596478
       purpleBg: 6441182072768732116
-      spriteatlas_0: 4198972775108417999
       spriteatlas_1: 3650529845429394761
       spriteatlas_10: 655002811503768706
       spriteatlas_11: 5281778035995830354
@@ -725,7 +726,6 @@ TextureImporter:
       spriteatlas_17: 7055062863005965510
       spriteatlas_18: 6082263456909383666
       spriteatlas_19: 2981708555725563514
-      spriteatlas_2: -5134143732341596478
       spriteatlas_21: -7848767656861506655
       spriteatlas_22: -2442393123767168831
       spriteatlas_3: -2536502841105185541
