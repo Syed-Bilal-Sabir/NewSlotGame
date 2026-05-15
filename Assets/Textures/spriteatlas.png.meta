@@ -390,7 +390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_9
+      name: Wildicn
       rect:
         serializedVersion: 2
         x: 515
@@ -478,7 +478,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_13
+      name: Aicn
       rect:
         serializedVersion: 2
         x: 45
@@ -741,6 +741,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: BottomBar
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 1036
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef4f8e98ac4d845900dfb14496b2cb
+      internalID: 1809187943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -755,8 +777,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Aicn: 1115531026085785587
       BonusIcn: 5831498120442784602
       Borders: 192478523251562498
+      BottomBar: 1809187943
       DiamondIcn: 655002811503768706
       FreeSpinIcn: -7433845658982937281
       Jicn: 5281778035995830354
@@ -766,9 +790,9 @@ TextureImporter:
       ScatterIcn: 1989336110
       SlotBg: -3809047619170704775
       TopBorderSlot: -5134143732341596478
+      Wildicn: 586448320938811456
       purpleBg: 6441182072768732116
       spriteatlas_1: 3650529845429394761
-      spriteatlas_13: 1115531026085785587
       spriteatlas_17: 7055062863005965510
       spriteatlas_18: 6082263456909383666
       spriteatlas_19: 2981708555725563514
@@ -779,7 +803,6 @@ TextureImporter:
       spriteatlas_5: -583954669193274039
       spriteatlas_6: 7219331762215413543
       spriteatlas_8: -8916301072530914508
-      spriteatlas_9: 586448320938811456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
