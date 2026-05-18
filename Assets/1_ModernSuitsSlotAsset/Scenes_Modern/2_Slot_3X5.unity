@@ -822,7 +822,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967293
+    m_Bits: 53
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -2692,7 +2692,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 407219168}
   m_OnClick:
     m_PersistentCalls:
@@ -3755,7 +3755,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.1585402, y: 2.1585402, z: 2.1585402}
+  m_LocalScale: {x: 2.1588097, y: 2.1588097, z: 2.1588097}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 368552576}
@@ -3779,7 +3779,7 @@ MonoBehaviour:
   additionalScale: 1
   additionalScaleOld: 1
   useLerpScale: 0
-  currRatio: 1.7781754
+  currRatio: 1.7785124
   lerpRatio: 1
   lerpScale: 1
 --- !u!212 &531033910
@@ -9946,7 +9946,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1423140795}
   m_OnClick:
     m_PersistentCalls:
@@ -11944,7 +11944,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1617472902}
   m_OnClick:
     m_PersistentCalls:
@@ -13051,7 +13051,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -1.61, z: 0}
-  m_LocalScale: {x: 0.716799, y: 0.716799, z: 0.716799}
+  m_LocalScale: {x: 0.7168485, y: 0.7168485, z: 0.7168485}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 806794296}
@@ -13085,7 +13085,7 @@ MonoBehaviour:
   additionalScale: 0.5
   additionalScaleOld: 0.5
   useLerpScale: 0
-  currRatio: 1.7781754
+  currRatio: 1.7785124
   lerpRatio: 1
   lerpScale: 1
 --- !u!1 &1709115112

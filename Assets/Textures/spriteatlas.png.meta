@@ -214,13 +214,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteatlas_1
+      name: Topbar
       rect:
         serializedVersion: 2
-        x: 212
-        y: 1864
-        width: 934
-        height: 89
+        x: 223
+        y: 1890
+        width: 915
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,7 +750,7 @@ TextureImporter:
         width: 1036
         height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -790,9 +790,9 @@ TextureImporter:
       ScatterIcn: 1989336110
       SlotBg: -3809047619170704775
       TopBorderSlot: -5134143732341596478
+      Topbar: 3650529845429394761
       Wildicn: 586448320938811456
       purpleBg: 6441182072768732116
-      spriteatlas_1: 3650529845429394761
       spriteatlas_17: 7055062863005965510
       spriteatlas_18: 6082263456909383666
       spriteatlas_19: 2981708555725563514
