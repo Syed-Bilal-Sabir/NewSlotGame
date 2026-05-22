@@ -318,8 +318,8 @@ namespace Mkey
             ChangeAutoSpinsCounterEvent += (r, i) => { if (this && AutoSpinsCountText) AutoSpinsCountText.text = i.ToString(); };
             LoadFreeSpins();
             LoadAutoSpins();
-            SetTextString(InfoText, (SelectedLinesCount > 0) ? "Click to SPIN to start!" : "Select any slot line!");
-            ChangeSelectedLinesEvent += (l, b) => { SetTextString(InfoText, (l > 0) ? "Click to SPIN to start!" : "Select any slot line!"); };
+            SetTextString(InfoText, (SelectedLinesCount > 0) ? "Click SPIN to start!" : "Select any slot line!");
+            ChangeSelectedLinesEvent += (l, b) => { SetTextString(InfoText, (l > 0) ? "Click SPIN to start!" : "Select any slot line!"); };
             Refresh();
         }
 

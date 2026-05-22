@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 53d6c8e01e2eb954dbe755678f43201a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8630997537005662581
+    second: UI Atlast_0
+  - first:
+      213: 4367211843993927442
+    second: UI Atlast_1
+  - first:
+      213: -4061153218059284050
+    second: UI Atlast_2
+  - first:
+      213: -806560414588984049
+    second: UI Atlast_3
+  - first:
+      213: 3071899923012180682
+    second: UI Atlast_4
+  - first:
+      213: 8224034368753646558
+    second: UI Atlast_5
+  - first:
+      213: 5338779669654598050
+    second: UI Atlast_6
+  - first:
+      213: -6192472246918475871
+    second: UI Atlast_7
+  - first:
+      213: -8781319771362724188
+    second: UI Atlast_8
+  - first:
+      213: 2362367625091116580
+    second: UI Atlast_9
+  - first:
+      213: 8763118298530137997
+    second: UI Atlast_10
+  - first:
+      213: 1010078229392067063
+    second: UI Atlast_11
+  - first:
+      213: 66686028824701197
+    second: UI Atlast_12
+  - first:
+      213: -352573694148814882
+    second: UI Atlast_13
+  - first:
+      213: -6913254257669075465
+    second: UI Atlast_14
+  - first:
+      213: -2435882099082850575
+    second: UI Atlast_15
+  - first:
+      213: -9089076170160069603
+    second: UI Atlast_16
+  - first:
+      213: 5986655927206292481
+    second: UI Atlast_17
+  - first:
+      213: 310548755990998639
+    second: UI Atlast_18
+  - first:
+      213: 6693291076821774317
+    second: UI Atlast_19
+  - first:
+      213: 7696767510869749896
+    second: UI Atlast_20
+  - first:
+      213: 3432651645399495129
+    second: UI Atlast_21
+  - first:
+      213: -8361022757683449620
+    second: UI Atlast_22
+  - first:
+      213: -2308272652020852225
+    second: UI Atlast_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Atlast_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1606
+        width: 539
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e81851879883880800000000000000
+      internalID: -8630997537005662581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_1
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1636
+        width: 406
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ff22c98047b9c30800000000000000
+      internalID: 4367211843993927442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_2
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1650
+        width: 641
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea154234aa2e3a7c0800000000000000
+      internalID: -4061153218059284050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1648
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05288683958ec4f0800000000000000
+      internalID: -806560414588984049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillar
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1435
+        width: 269
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad0b054b491aa20800000000000000
+      internalID: 3071899923012180682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1048
+        width: 266
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3a228fa3a12270800000000000000
+      internalID: 8224034368753646558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1449
+        width: 1087
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1f6dfc2d7271a40800000000000000
+      internalID: 5338779669654598050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1192
+        width: 7
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af85f0fc4bef0aa0800000000000000
+      internalID: -6192472246918475871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 995
+        width: 402
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a67fc0813c722680800000000000000
+      internalID: -8781319771362724188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomBar
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1252
+        width: 434
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e6072b6d0d8c020800000000000000
+      internalID: 2362367625091116580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umbrella
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 966
+        width: 380
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874d9cd9a9dc9970800000000000000
+      internalID: 8763118298530137997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 737
+        width: 207
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9054a4cc4840e00800000000000000
+      internalID: 1010078229392067063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 745
+        width: 312
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e393079aece000800000000000000
+      internalID: 66686028824701197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 711
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7dc1bd7186b1bf0800000000000000
+      internalID: -352573694148814882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_14
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 356
+        width: 17
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd8da171ef2f00a0800000000000000
+      internalID: -6913254257669075465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 668
+        width: 319
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0f610322023ed0800000000000000
+      internalID: -2435882099082850575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_16
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 363
+        width: 169
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d142425116d1dd180800000000000000
+      internalID: -9089076170160069603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeBg
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 1103
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c2e9dd8dfd41350800000000000000
+      internalID: 5986655927206292481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_18
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 372
+        width: 445
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e684eb27a4f4400800000000000000
+      internalID: 310548755990998639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBarSlot
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 186
+        width: 769
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe04495c853ec50800000000000000
+      internalID: 6693291076821774317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_20
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 40
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b82c954960da60800000000000000
+      internalID: 7696767510869749896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_21
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 28
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d172b90c7a33af20800000000000000
+      internalID: 3432651645399495129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_22
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 27
+        width: 113
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03259b91ea7fb80800000000000000
+      internalID: -8361022757683449620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlast_23
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 29
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff95c83b04e57ffd0800000000000000
+      internalID: -2308272652020852225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f8ebf99ad8d1704bb67738a34f2324c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThemeBg: 5986655927206292481
+      TopBarSlot: 6693291076821774317
+      UI Atlast_0: -8630997537005662581
+      UI Atlast_1: 4367211843993927442
+      UI Atlast_11: 1010078229392067063
+      UI Atlast_12: 66686028824701197
+      UI Atlast_13: -352573694148814882
+      UI Atlast_14: -6913254257669075465
+      UI Atlast_15: -2435882099082850575
+      UI Atlast_16: -9089076170160069603
+      UI Atlast_18: 310548755990998639
+      UI Atlast_2: -4061153218059284050
+      UI Atlast_20: 7696767510869749896
+      UI Atlast_21: 3432651645399495129
+      UI Atlast_22: -8361022757683449620
+      UI Atlast_23: -2308272652020852225
+      UI Atlast_3: -806560414588984049
+      UI Atlast_5: 8224034368753646558
+      UI Atlast_6: 5338779669654598050
+      UI Atlast_7: -6192472246918475871
+      UI Atlast_8: -8781319771362724188
+      Umbrella: 8763118298530137997
+      bottomBar: 2362367625091116580
+      pillar: 3071899923012180682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

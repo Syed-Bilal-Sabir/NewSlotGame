@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: freespin_0
+      name: freespin
       rect:
         serializedVersion: 2
         x: 0
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      freespin_0: -198644923081802103
+      freespin: -198644923081802103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

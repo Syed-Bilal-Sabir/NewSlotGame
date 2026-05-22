@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: scatter_0
+      name: scatter
       rect:
         serializedVersion: 2
         x: 0
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      scatter_0: 9118050511375315368
+      scatter: 9118050511375315368
       scatter_1: -1691296374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

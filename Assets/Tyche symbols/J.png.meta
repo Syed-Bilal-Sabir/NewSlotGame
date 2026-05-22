@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: J_0
+      name: J
       rect:
         serializedVersion: 2
         x: 0
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      J_0: -581286770295223724
+      J: -581286770295223724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

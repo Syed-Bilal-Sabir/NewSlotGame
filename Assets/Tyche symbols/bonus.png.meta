@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bonus_0
+      name: bonus
       rect:
         serializedVersion: 2
         x: 0
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bonus_0: 3822108714260272289
+      bonus: 3822108714260272289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Q_0
+      name: Q
       rect:
         serializedVersion: 2
         x: 0
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Q_0: -3859272008004827343
+      Q: -3859272008004827343
       Q_1: -1976434411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

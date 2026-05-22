@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: da83ddaf2dc0c1046ad2f459e0898168
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4198972775108417999
+    second: spriteatlas_0
+  - first:
+      213: 3650529845429394761
+    second: spriteatlas_1
+  - first:
+      213: -5134143732341596478
+    second: spriteatlas_2
+  - first:
+      213: -2536502841105185541
+    second: spriteatlas_3
+  - first:
+      213: 6500261515399211334
+    second: spriteatlas_4
+  - first:
+      213: -583954669193274039
+    second: spriteatlas_5
+  - first:
+      213: 7219331762215413543
+    second: spriteatlas_6
+  - first:
+      213: -3809047619170704775
+    second: spriteatlas_7
+  - first:
+      213: -8916301072530914508
+    second: spriteatlas_8
+  - first:
+      213: 586448320938811456
+    second: spriteatlas_9
+  - first:
+      213: 655002811503768706
+    second: spriteatlas_10
+  - first:
+      213: 5281778035995830354
+    second: spriteatlas_11
+  - first:
+      213: 192478523251562498
+    second: spriteatlas_12
+  - first:
+      213: 1115531026085785587
+    second: spriteatlas_13
+  - first:
+      213: -3267913455876280778
+    second: spriteatlas_14
+  - first:
+      213: 5831498120442784602
+    second: spriteatlas_15
+  - first:
+      213: -7433845658982937281
+    second: spriteatlas_16
+  - first:
+      213: 7055062863005965510
+    second: spriteatlas_17
+  - first:
+      213: 6082263456909383666
+    second: spriteatlas_18
+  - first:
+      213: 2981708555725563514
+    second: spriteatlas_19
+  - first:
+      213: 6441182072768732116
+    second: spriteatlas_20
+  - first:
+      213: -7848767656861506655
+    second: spriteatlas_21
+  - first:
+      213: -2442393123767168831
+    second: spriteatlas_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1486
+        width: 137
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99fd9ed7fb54a30800000000000000
+      internalID: 4198972775108417999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topbar
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1890
+        width: 915
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dd7c69d8949a230800000000000000
+      internalID: 3650529845429394761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBorderSlot
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1957
+        width: 826
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce1bff2a7bdfb8b0800000000000000
+      internalID: -5134143732341596478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purpleBtn
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1904
+        width: 358
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40820ea188cccd0800000000000000
+      internalID: -2536502841105185541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holderpurple
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1668
+        width: 167
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649238c8861953a50800000000000000
+      internalID: 6500261515399211334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1354
+        width: 383
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dddc1825065e7f0800000000000000
+      internalID: -583954669193274039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: themelogo
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1448
+        width: 399
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7276b82fcf7303460800000000000000
+      internalID: 7219331762215413543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinBg
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1421
+        width: 617
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97268ce1f5b832bc0800000000000000
+      internalID: -3809047619170704775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1072
+        width: 273
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4334c554a6fe24480800000000000000
+      internalID: -8916301072530914508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildicn
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1178
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040aea804ab732800800000000000000
+      internalID: 586448320938811456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiamondIcn
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1154
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28470923699071900800000000000000
+      internalID: 655002811503768706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jicn
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1158
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258edf1c325ac4940800000000000000
+      internalID: 5281778035995830354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Borders
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 16
+        height: 761
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081d457232dba200800000000000000
+      internalID: 192478523251562498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aicn
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 893
+        width: 144
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff25c1de892b7f00800000000000000
+      internalID: 1115531026085785587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicn
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 885
+        width: 141
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e66c9a60a06a2d0800000000000000
+      internalID: -3267913455876280778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusIcn
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 959
+        width: 154
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ba959d4a4ade050800000000000000
+      internalID: 5831498120442784602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeSpinIcn
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 963
+        width: 132
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0e3562cca5d890800000000000000
+      internalID: -7433845658982937281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 504
+        width: 206
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc55896b4e98e160800000000000000
+      internalID: 7055062863005965510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 688
+        width: 756
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75c6b836a886450800000000000000
+      internalID: 6082263456909383666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 688
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e3c73228216920800000000000000
+      internalID: 2981708555725563514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purpleBg
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 323
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db9ef4e7fca36950800000000000000
+      internalID: 6441182072768732116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 438
+        width: 757
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e1309663931390800000000000000
+      internalID: -7848767656861506655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteatlas_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 218
+        width: 754
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c05000f460ea1ed0800000000000000
+      internalID: -2442393123767168831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScatterIcn
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 952
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010c26c8c3a3c04489df68df6b85c35
+      internalID: 1989336110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Qicn
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 157
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a260dc0d58f134797410ed571aa35a
+      internalID: 1481218415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomBar
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 1036
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef4f8e98ac4d845900dfb14496b2cb
+      internalID: 1809187943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenBtn
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1784
+        width: 354
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c292cdba7b8e4084aaeb072aefc8d
+      internalID: 1195958314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plusbtn
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1368
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9657029f4b987964ebeb284926b4cdcf
+      internalID: -600871339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minusbtn
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1271
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922633a5d3adf347ac5dfbab45290be
+      internalID: 196421440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balanceholder
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1932
+        width: 313
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0e45f43558e54eb9c6f78cb19d277
+      internalID: 761854902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b98dbf2a137d13942a2bb8ac17bb1ec0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aicn: 1115531026085785587
+      BonusIcn: 5831498120442784602
+      Borders: 192478523251562498
+      BottomBar: 1809187943
+      DiamondIcn: 655002811503768706
+      FreeSpinIcn: -7433845658982937281
+      GoldenBtn: 1195958314
+      Holderpurple: 6500261515399211334
+      Jicn: 5281778035995830354
+      Kicn: -3267913455876280778
+      Pillar: 4198972775108417999
+      Qicn: 1481218415
+      ScatterIcn: 1989336110
+      TopBorderSlot: -5134143732341596478
+      Topbar: 3650529845429394761
+      Wildicn: 586448320938811456
+      WinBg: -3809047619170704775
+      balanceholder: 761854902
+      minusbtn: 196421440
+      plusbtn: -600871339
+      purpleBg: 6441182072768732116
+      purpleBtn: -2536502841105185541
+      spriteatlas_17: 7055062863005965510
+      spriteatlas_18: 6082263456909383666
+      spriteatlas_19: 2981708555725563514
+      spriteatlas_21: -7848767656861506655
+      spriteatlas_22: -2442393123767168831
+      spriteatlas_5: -583954669193274039
+      spriteatlas_8: -8916301072530914508
+      themelogo: 7219331762215413543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
