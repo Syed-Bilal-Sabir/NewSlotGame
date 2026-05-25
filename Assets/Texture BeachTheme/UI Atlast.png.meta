@@ -195,13 +195,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI Atlast_0
+      name: BeachLogo
       rect:
         serializedVersion: 2
-        x: 42
-        y: 1606
-        width: 539
-        height: 419
+        x: 0
+        y: 1668
+        width: 613
+        height: 368
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,7 +305,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI Atlast_5
+      name: Speaker
       rect:
         serializedVersion: 2
         x: 22
@@ -371,7 +371,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI Atlast_8
+      name: umbrellablue
       rect:
         serializedVersion: 2
         x: 360
@@ -503,7 +503,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI Atlast_14
+      name: VerticalDivider
       rect:
         serializedVersion: 2
         x: 1151
@@ -547,7 +547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI Atlast_16
+      name: BeachSlotbg
       rect:
         serializedVersion: 2
         x: 1835
@@ -736,16 +736,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      BeachLogo: -8630997537005662581
+      BeachSlotbg: -9089076170160069603
+      Speaker: 8224034368753646558
       ThemeBg: 5986655927206292481
       TopBarSlot: 6693291076821774317
-      UI Atlast_0: -8630997537005662581
       UI Atlast_1: 4367211843993927442
       UI Atlast_11: 1010078229392067063
       UI Atlast_12: 66686028824701197
       UI Atlast_13: -352573694148814882
-      UI Atlast_14: -6913254257669075465
       UI Atlast_15: -2435882099082850575
-      UI Atlast_16: -9089076170160069603
       UI Atlast_18: 310548755990998639
       UI Atlast_2: -4061153218059284050
       UI Atlast_20: 7696767510869749896
@@ -753,13 +753,13 @@ TextureImporter:
       UI Atlast_22: -8361022757683449620
       UI Atlast_23: -2308272652020852225
       UI Atlast_3: -806560414588984049
-      UI Atlast_5: 8224034368753646558
       UI Atlast_6: 5338779669654598050
       UI Atlast_7: -6192472246918475871
-      UI Atlast_8: -8781319771362724188
       Umbrella: 8763118298530137997
+      VerticalDivider: -6913254257669075465
       bottomBar: 2362367625091116580
       pillar: 3071899923012180682
+      umbrellablue: -8781319771362724188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
