@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/1_Lobby.unity
     guid: 126811d64807aa14b9424800f08ef417
-  - enabled: 1
+  - enabled: 0
     path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5.unity
     guid: 1b6f9adcaed688a46b4fe931f655bb69
   - enabled: 0
@@ -38,5 +38,8 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/11_Slot_2-3-4-3-2.unity
     guid: d7d56cea871ed484ab4831dfc9021e92
+  - enabled: 1
+    path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5 (BeachTheme).unity
+    guid: 2f4a79a4b712e41448668f36aba3ee61
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

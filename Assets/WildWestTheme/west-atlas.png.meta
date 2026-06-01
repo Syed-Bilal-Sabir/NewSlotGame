@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: e79acbf4389630342a77d4a70b5749d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1991381016171757994
+    second: west-atlas_0
+  - first:
+      213: -4418941304580810346
+    second: west-atlas_1
+  - first:
+      213: 2345850713583943127
+    second: west-atlas_2
+  - first:
+      213: -3889367907635921994
+    second: west-atlas_3
+  - first:
+      213: -2563502842082037653
+    second: west-atlas_4
+  - first:
+      213: -6451530788261203295
+    second: west-atlas_5
+  - first:
+      213: -5175422426707176100
+    second: west-atlas_6
+  - first:
+      213: -4306509476426554784
+    second: west-atlas_7
+  - first:
+      213: -7333788803197538954
+    second: west-atlas_8
+  - first:
+      213: -8102204040007237892
+    second: west-atlas_9
+  - first:
+      213: -6010794349793686609
+    second: west-atlas_10
+  - first:
+      213: -1604509741271244148
+    second: west-atlas_11
+  - first:
+      213: 1217423258317923043
+    second: west-atlas_12
+  - first:
+      213: 7798101701332183416
+    second: west-atlas_13
+  - first:
+      213: -7740500797323032396
+    second: west-atlas_14
+  - first:
+      213: -7876483371169282718
+    second: west-atlas_15
+  - first:
+      213: -3413729777262126896
+    second: west-atlas_16
+  - first:
+      213: 680234953257622954
+    second: west-atlas_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlotHeader
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1781
+        width: 1205
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e30ae34813d54e0800000000000000
+      internalID: -1991381016171757994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReelSeparator
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1450
+        width: 8
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699d829cb44cca2c0800000000000000
+      internalID: -4418941304580810346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1993
+        width: 112
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd744f8bc22e8020800000000000000
+      internalID: 2345850713583943127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlotsReelbg
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1468
+        width: 200
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7e88ae70360ac0800000000000000
+      internalID: -3889367907635921994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1872
+        width: 228
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fef44fbb9c6cd0800000000000000
+      internalID: -2563502842082037653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1610
+        width: 112
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2f1340eee8776a0800000000000000
+      internalID: -6451530788261203295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1547
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55578539b43d28b0800000000000000
+      internalID: -5175422426707176100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1707
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062edb3b2743c34c0800000000000000
+      internalID: -4306509476426554784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1440
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d6ca780f5293a90800000000000000
+      internalID: -7333788803197538954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1398
+        width: 194
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe32a95a503f8f80800000000000000
+      internalID: -8102204040007237892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1568
+        width: 340
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4f9aa26e559ca0800000000000000
+      internalID: -6010794349793686609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1417
+        width: 267
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82afd034e2abb9e0800000000000000
+      internalID: -1604509741271244148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_12
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1408
+        width: 362
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a655d00825e010800000000000000
+      internalID: 1217423258317923043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: west-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1398
+        width: 506
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87926466e2c683c60800000000000000
+      internalID: 7798101701332183416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomBar
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1246
+        width: 1922
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8cee72987349490800000000000000
+      internalID: -7740500797323032396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HorizontalBar
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1156
+        width: 1533
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650f26fa1c11b290800000000000000
+      internalID: -7876483371169282718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VerticalBar
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1088
+        width: 1035
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d81e13badeff90d0800000000000000
+      internalID: -3413729777262126896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestBg
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 1699
+        height: 957
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad99b0061ea07900800000000000000
+      internalID: 680234953257622954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linesbtn
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1042
+        width: 153
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1702ed106184546b9672e4d9743486
+      internalID: 123994513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0bab5e47a8a133849b9008f523237adc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HorizontalBar: -7876483371169282718
+      Linesbtn: 123994513
+      ReelSeparator: -4418941304580810346
+      SlotHeader: -1991381016171757994
+      SlotsReelbg: -3889367907635921994
+      VerticalBar: -3413729777262126896
+      WestBg: 680234953257622954
+      bottomBar: -7740500797323032396
+      west-atlas_10: -6010794349793686609
+      west-atlas_11: -1604509741271244148
+      west-atlas_12: 1217423258317923043
+      west-atlas_13: 7798101701332183416
+      west-atlas_2: 2345850713583943127
+      west-atlas_4: -2563502842082037653
+      west-atlas_5: -6451530788261203295
+      west-atlas_6: -5175422426707176100
+      west-atlas_7: -4306509476426554784
+      west-atlas_8: -7333788803197538954
+      west-atlas_9: -8102204040007237892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
