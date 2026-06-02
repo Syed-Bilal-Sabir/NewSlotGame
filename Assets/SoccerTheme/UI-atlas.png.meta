@@ -192,13 +192,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI-atlas_0
+      name: StatsHolder
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1930
-        width: 272
-        height: 116
+        x: 10
+        y: 1948
+        width: 260
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,28 +324,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_6
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 1942
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac0a8456e3498f940800000000000000
-      internalID: 5330173154701123786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI-atlas_7
       rect:
         serializedVersion: 2
@@ -412,13 +390,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_10
+      name: InfoPanel
       rect:
         serializedVersion: 2
-        x: 586
-        y: 1749
-        width: 815
-        height: 189
+        x: 593
+        y: 1760
+        width: 797
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,13 +434,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_12
+      name: BalanceHolder
       rect:
         serializedVersion: 2
-        x: 624
-        y: 1496
-        width: 489
-        height: 163
+        x: 630
+        y: 1503
+        width: 476
+        height: 145
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,13 +456,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_13
+      name: MaxBet Btn
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1362
-        width: 318
-        height: 150
+        x: 19
+        y: 1390
+        width: 273
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,13 +478,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_14
+      name: SpinBtn
       rect:
         serializedVersion: 2
-        x: 622
-        y: 1264
-        width: 373
-        height: 174
+        x: 649
+        y: 1292
+        width: 319
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,9 +504,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1144
-        y: 1280
+        y: 1128
         width: 164
-        height: 163
+        height: 467
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -711,17 +689,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      BalanceHolder: -1205728718371068173
+      InfoPanel: 6156884260177187746
+      MaxBet Btn: 8506403893012707087
       SlotSideBar: -1897273041214954252
       SlotTopBorder: -3841728287881231621
       SlotsCorners: 8110116495160558750
       SoccerThemeBg: 5308460343967099306
       Soccerbg: 4268686191203046568
-      UI-atlas_0: 6826850971921097743
-      UI-atlas_10: 6156884260177187746
+      SpinBtn: -5881045713991170367
+      StatsHolder: 6826850971921097743
       UI-atlas_11: 6631117487184665582
-      UI-atlas_12: -1205728718371068173
-      UI-atlas_13: 8506403893012707087
-      UI-atlas_14: -5881045713991170367
       UI-atlas_16: 7920734131869116818
       UI-atlas_17: 2951881149461957784
       UI-atlas_18: 7483812890902042183
