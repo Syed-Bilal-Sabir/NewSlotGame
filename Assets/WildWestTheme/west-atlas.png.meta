@@ -380,7 +380,7 @@ TextureImporter:
         serializedVersion: 2
         x: 159
         y: 1398
-        width: 194
+        width: 185
         height: 200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -624,6 +624,7 @@ TextureImporter:
       minusbtn: -6451530788261203295
       plusbtn: -7333788803197538954
       txtfieldholder: 2345850713583943127
+      west-atlas_0: 1674214181
       west-atlas_6: -5175422426707176100
       west-atlas_7: -4306509476426554784
       west-atlas_9: -8102204040007237892

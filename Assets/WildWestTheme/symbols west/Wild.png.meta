@@ -126,15 +126,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Layer-15_0
+      name: Wild
       rect:
         serializedVersion: 2
-        x: 24
-        y: 23
-        width: 403
-        height: 403
+        x: 0
+        y: 0
+        width: 450
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d9edd04b311e5844fa1968d112a09c5c
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Layer-15_0: -4884423165209315897
+      Wild: -4884423165209315897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
