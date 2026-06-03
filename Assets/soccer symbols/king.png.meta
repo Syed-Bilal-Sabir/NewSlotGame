@@ -126,15 +126,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: king_0
+      name: K
       rect:
         serializedVersion: 2
-        x: 40
-        y: 35
-        width: 370
-        height: 379
+        x: 0
+        y: 0
+        width: 450
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f8052015e0ee387409d4f34a1df76bf5
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      king_0: -1724822148711148119
+      K: -1724822148711148119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

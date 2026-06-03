@@ -126,15 +126,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bonus_0
+      name: Bonus
       rect:
         serializedVersion: 2
-        x: 21
-        y: 100
-        width: 408
-        height: 249
+        x: 0
+        y: 0
+        width: 450
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a6f9d9ecaf93e814da188a7bb6636d96
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bonus_0: 3822108714260272289
+      Bonus: 3822108714260272289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

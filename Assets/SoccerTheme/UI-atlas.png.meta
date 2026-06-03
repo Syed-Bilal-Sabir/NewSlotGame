@@ -302,13 +302,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_5
+      name: SoccerLogo
       rect:
         serializedVersion: 2
-        x: 1422
-        y: 1624
-        width: 595
-        height: 399
+        x: 1448
+        y: 1635
+        width: 517
+        height: 379
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,13 +522,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_16
+      name: Flag
       rect:
         serializedVersion: 2
-        x: 1391
-        y: 1112
-        width: 657
-        height: 379
+        x: 1400
+        y: 1121
+        width: 637
+        height: 363
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,13 +566,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI-atlas_18
+      name: linebtn
       rect:
         serializedVersion: 2
-        x: 652
-        y: 1169
-        width: 78
-        height: 80
+        x: 656
+        y: 1176
+        width: 70
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,28 +690,28 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       BalanceHolder: -1205728718371068173
+      Flag: 7920734131869116818
       InfoPanel: 6156884260177187746
       MaxBet Btn: 8506403893012707087
       SlotSideBar: -1897273041214954252
       SlotTopBorder: -3841728287881231621
       SlotsCorners: 8110116495160558750
+      SoccerLogo: -7431919340607121500
       SoccerThemeBg: 5308460343967099306
       Soccerbg: 4268686191203046568
       SpinBtn: -5881045713991170367
       StatsHolder: 6826850971921097743
       UI-atlas_11: 6631117487184665582
-      UI-atlas_16: 7920734131869116818
       UI-atlas_17: 2951881149461957784
-      UI-atlas_18: 7483812890902042183
       UI-atlas_19: 7017334033731617111
       UI-atlas_2: -7893529868599297256
       UI-atlas_20: 3427324392427548256
       UI-atlas_22: -893011370665583310
-      UI-atlas_5: -7431919340607121500
       UI-atlas_6: 5330173154701123786
       UI-atlas_7: -3771910722190637877
       UI-atlas_8: -1113648733384569397
       UI-atlas_9: -286831957969317447
+      linebtn: 7483812890902042183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

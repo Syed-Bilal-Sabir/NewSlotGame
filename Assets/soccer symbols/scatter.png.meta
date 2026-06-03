@@ -126,15 +126,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: scatter_0
+      name: Scatter
       rect:
         serializedVersion: 2
-        x: 46
-        y: 61
-        width: 359
-        height: 328
+        x: 0
+        y: 0
+        width: 450
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bff3d1a4ab7eb394d88df721551812bd
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      scatter_0: 9118050511375315368
+      Scatter: 9118050511375315368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

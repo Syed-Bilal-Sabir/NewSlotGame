@@ -4972,7 +4972,7 @@ RectTransform:
   m_GameObject: {fileID: 711748201}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.83206, y: 0.83206, z: 0.83206}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 831609553}
@@ -6139,7 +6139,7 @@ RectTransform:
   m_GameObject: {fileID: 843237742}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.83206, y: 0.83206, z: 0.83206}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1442716770}
@@ -13190,7 +13190,7 @@ RectTransform:
   m_GameObject: {fileID: 1704424439}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.8227184, y: 0.8227184, z: 0.8227184}
+  m_LocalScale: {x: 0.82290995, y: 0.82290995, z: 0.82290995}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 806794296}
@@ -13230,7 +13230,7 @@ MonoBehaviour:
   additionalScale: 0.5
   additionalScaleOld: 0.5
   useLerpScale: 0
-  currRatio: 1.599537
+  currRatio: 1.6003087
   lerpRatio: 1
   lerpScale: 1
 --- !u!1 &1709115112
@@ -14152,7 +14152,7 @@ RectTransform:
   m_GameObject: {fileID: 1773692297}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.83206, y: 0.83206, z: 0.83206}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1131444315}
@@ -14229,7 +14229,7 @@ RectTransform:
   m_GameObject: {fileID: 1778259329}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.83206, y: 0.83206, z: 0.83206}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1059252785}
