@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3357061290270968794}
   - component: {fileID: 1474595751855098007}
   - component: {fileID: 1558123844575262949}
+  - component: {fileID: 4700451441328472593}
   m_Layer: 0
   m_Name: DiamondAnim B
   m_TagString: Untagged
@@ -83,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 25
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: fdc69933c088b9d4bb5c2ce203e90231, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c87751fa25337554a9132c5c4cd8e96a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -215,3 +216,25 @@ MonoBehaviour:
   optionalScrambleMode: 0
   optionalShakeRandomnessMode: 0
   optionalString: 
+--- !u!95 &4700451441328472593
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3076355040973403272}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3810562cac9fdae4685b6ddd4a058f87, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

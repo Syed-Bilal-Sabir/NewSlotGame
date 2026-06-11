@@ -1,0 +1,76 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class UISpriteAnimationCustom : MonoBehaviour
+{
+
+    public SpriteRenderer m_Image;
+    public Image img;
+
+    public Sprite[] m_SpriteArray;
+    public float m_Speed = .02f;
+
+    private int m_IndexSprite;
+    Coroutine m_CorotineAnim;
+    bool IsDone;
+    public AudioClip Shotfire;
+    public AudioSource AudioSource;
+    public void Func_PlayUIAnim()
+    {
+        IsDone = false;
+        StartCoroutine(Func_PlayAnimUI());
+    }
+
+    public void PlaybtnUI()
+    {
+        IsDone = false;
+        StartCoroutine(Func_PlayAnimBtnUI());
+    }
+
+    private void Start()
+    {
+        if(m_Image is not null)
+            Func_PlayUIAnim();
+        
+    }
+
+    public void Func_StopUIAnim()
+    {
+        IsDone = true;
+        StopCoroutine(Func_PlayAnimUI());
+    }
+    IEnumerator Func_PlayAnimUI()
+    {
+        yield return new WaitForSeconds(m_Speed);
+        if (m_IndexSprite >= m_SpriteArray.Length)
+        {
+            m_IndexSprite = 0;
+        }
+        m_Image.sprite = m_SpriteArray[m_IndexSprite];
+        
+        if (m_IndexSprite==100)
+        {
+            
+            AudioSource.Play();
+        }
+       
+        m_IndexSprite += 1;
+        if (IsDone == false)
+            m_CorotineAnim = StartCoroutine(Func_PlayAnimUI());
+    }
+    IEnumerator Func_PlayAnimBtnUI()
+    {
+        yield return new WaitForSeconds(m_Speed);
+        if (m_IndexSprite >= m_SpriteArray.Length)
+        {
+            m_IndexSprite = 0;
+        }
+        img.sprite = m_SpriteArray[m_IndexSprite];
+        m_IndexSprite += 1;
+        /*if (IsDone == false)
+            m_CorotineAnim = StartCoroutine(Func_PlayAnimUI());*/
+    }
+}

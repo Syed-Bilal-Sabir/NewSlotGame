@@ -2085,7 +2085,7 @@ MonoBehaviour:
   menuController: {fileID: 771764995}
   controls: {fileID: 1135278658}
   winController: {fileID: 368552578}
-  spinSound: {fileID: 8300000, guid: 2636a60e98ab4414ea9dc30dc9dbd40f, type: 3}
+  spinSound: {fileID: 8300000, guid: 5f31501bc1a31da4c9020b5faea0e961, type: 3}
   looseSound: {fileID: 8300000, guid: 8489deeaa4d91484a939cc7fa99c5a72, type: 3}
   winCoinsSound: {fileID: 8300000, guid: 81085339dd8a2dc40a084bcd0a8420e9, type: 3}
   winFreeSpinSound: {fileID: 8300000, guid: d6d1cbf157cac614f84c8e173b3cd055, type: 3}
@@ -2428,7 +2428,16 @@ MonoBehaviour:
         m_Calls: []
     payMult: 1
     freeSpinsMult: 1
-  - line: 0b0000000b0000000b0000000b0000000b000000
+  - line: 0a000000ffffffffffffffffffffffffffffffff
+    pay: 0
+    freeSpins: 10
+    showEvent: 0
+    LineEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    payMult: 1
+    freeSpinsMult: 1
+  - line: 0b000000ffffffffffffffffffffffffffffffff
     pay: 0
     freeSpins: 10
     showEvent: 0
@@ -5550,7 +5559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 038aaad479d3ca249a8ae14c4d66316b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 8300000, guid: c7492e6596d68204eb6ed3463ba45424, type: 3}
+  music: {fileID: 8300000, guid: 053560d4f7b842c419a954961ee5cc7d, type: 3}
   buttonClick: {fileID: 8300000, guid: e333190a16aedcd4d9cfcd166801bb88, type: 3}
   openWindow: {fileID: 8300000, guid: 5ad0b751a39ec544696b6df4b9084f50, type: 3}
   closeWindow: {fileID: 8300000, guid: 5ad0b751a39ec544696b6df4b9084f50, type: 3}
