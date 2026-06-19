@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 460b81bdf1680ba44b5b280ee9eef0d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5736410395569313569
+    second: norse-atlas_0
+  - first:
+      213: 61523113495550810
+    second: norse-atlas_1
+  - first:
+      213: 6010974101494338737
+    second: norse-atlas_2
+  - first:
+      213: -9193374245266751838
+    second: norse-atlas_3
+  - first:
+      213: -3767216579458484677
+    second: norse-atlas_4
+  - first:
+      213: -312506875018270880
+    second: norse-atlas_5
+  - first:
+      213: 6066442160357141182
+    second: norse-atlas_6
+  - first:
+      213: -5102588821355524914
+    second: norse-atlas_7
+  - first:
+      213: -1137820606336278248
+    second: norse-atlas_8
+  - first:
+      213: -5442149434003857471
+    second: norse-atlas_9
+  - first:
+      213: 3730462863361569758
+    second: norse-atlas_10
+  - first:
+      213: -3323468026780483793
+    second: norse-atlas_11
+  - first:
+      213: 6758152505553541835
+    second: norse-atlas_12
+  - first:
+      213: -2029070969872410089
+    second: norse-atlas_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReelsBg
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1479
+        width: 183
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12754c9acd2db9f40800000000000000
+      internalID: 5736410395569313569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VerticalLine
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1792
+        width: 43
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bd06d12f29ad000800000000000000
+      internalID: 61523113495550810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomCorner
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1754
+        width: 251
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b494a909154b6350800000000000000
+      internalID: 6010974101494338737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topbarslotbg
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1967
+        width: 680
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae76af15d29a6080800000000000000
+      internalID: -9193374245266751838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpperCorner
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1826
+        width: 239
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b363a650b7828bbc0800000000000000
+      internalID: -3767216579458484677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maxbetbtn
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1911
+        width: 277
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672ba427a0c9abf0800000000000000
+      internalID: -312506875018270880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statsbg
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1839
+        width: 217
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6a82e005503450800000000000000
+      internalID: 6066442160357141182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatsHolderbg
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1868
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc893c6086ff29b0800000000000000
+      internalID: -5102588821355524914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plusicn
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1671
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e43ddf26a530f0800000000000000
+      internalID: -1137820606336278248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minusicn
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1670
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf5b9b6ce99974b0800000000000000
+      internalID: -5442149434003857471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinbtn
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1658
+        width: 320
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3f37a953445c330800000000000000
+      internalID: 3730462863361569758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorseLogo
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1415
+        width: 736
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f7169207ba0e1d0800000000000000
+      internalID: -3323468026780483793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 986
+        width: 916
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca5f67c5e7c9cd50800000000000000
+      internalID: 6758152505553541835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: norse-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 15
+        width: 1674
+        height: 943
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a92b014ba47d3e0800000000000000
+      internalID: -2029070969872410089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidebtns
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1023
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6943fb3e2c1024c849dd52e335970d
+      internalID: -672557587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalanceBg
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1026
+        width: 362
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4618249e02fe47980cb3fe76868ed
+      internalID: 1991622526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoScreen
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1155
+        width: 492
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d03289f201de2f4fa117b2cb9c6c95a
+      internalID: -573927657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 258ae27fe1d54b64f96b557052b3e396
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BalanceBg: 1991622526
+      InfoScreen: -573927657
+      Maxbetbtn: -312506875018270880
+      NorseLogo: -3323468026780483793
+      ReelsBg: 5736410395569313569
+      Shade: 6758152505553541835
+      Spinbtn: 3730462863361569758
+      StatsHolderbg: -5102588821355524914
+      Statsbg: 6066442160357141182
+      Topbarslotbg: -9193374245266751838
+      UpperCorner: -3767216579458484677
+      VerticalLine: 61523113495550810
+      bottomCorner: 6010974101494338737
+      minusicn: -5442149434003857471
+      norse-atlas_13: -2029070969872410089
+      plusicn: -1137820606336278248
+      sidebtns: -672557587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

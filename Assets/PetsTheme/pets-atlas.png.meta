@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 4a47d01bd4983bc47956a0717de32f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8816848218061095189
+    second: pets-atlas_0
+  - first:
+      213: 3448283491490151295
+    second: pets-atlas_1
+  - first:
+      213: -7959163199471900781
+    second: pets-atlas_2
+  - first:
+      213: 4041989517964566409
+    second: pets-atlas_3
+  - first:
+      213: -4712293403843448507
+    second: pets-atlas_4
+  - first:
+      213: 1321802569289131160
+    second: pets-atlas_5
+  - first:
+      213: 5648078947130772950
+    second: pets-atlas_6
+  - first:
+      213: -7880910731327828475
+    second: pets-atlas_7
+  - first:
+      213: 1208746423152841886
+    second: pets-atlas_8
+  - first:
+      213: 4101488977632611226
+    second: pets-atlas_9
+  - first:
+      213: -2702757610216789488
+    second: pets-atlas_10
+  - first:
+      213: -2027165910833260326
+    second: pets-atlas_11
+  - first:
+      213: 4318351193013415246
+    second: pets-atlas_12
+  - first:
+      213: -2528668633133148419
+    second: pets-atlas_13
+  - first:
+      213: -9158944962960693614
+    second: pets-atlas_14
+  - first:
+      213: -251610508952453950
+    second: pets-atlas_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: infobar
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1878
+        width: 592
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511411c9dbcbb5a70800000000000000
+      internalID: 8816848218061095189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statsbg
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1898
+        width: 229
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b3d13d093cadf20800000000000000
+      internalID: 3448283491490151295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statstextholderBg
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1918
+        width: 118
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397ad125d3f5b8190800000000000000
+      internalID: -7959163199471900781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinbtn
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1867
+        width: 363
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f512c1d08081830800000000000000
+      internalID: 4041989517964566409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maxbetbtn
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1876
+        width: 301
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541be72bd129a9eb0800000000000000
+      internalID: -4712293403843448507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plusicn
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1914
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8946dadfe6cf75210800000000000000
+      internalID: 1321802569289131160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minusicn
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1911
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd871ba0e1026e40800000000000000
+      internalID: 5648078947130772950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VerticalBar
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1345
+        width: 40
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e04a8d17161a290800000000000000
+      internalID: -7880910731327828475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balancebar
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1724
+        width: 306
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e949c87b77456c010800000000000000
+      internalID: 1208746423152841886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopCorner
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1739
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc8f99e7a6be830800000000000000
+      internalID: 4101488977632611226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomCorner
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1739
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6b09f540ed7ad0800000000000000
+      internalID: -2702757610216789488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HorBar
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1763
+        width: 1069
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89000385f0ed3e0800000000000000
+      internalID: -2027165910833260326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReelsBg
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1451
+        width: 137
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4de2fac78dddeb30800000000000000
+      internalID: 4318351193013415246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBarSlotsBg
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1132
+        width: 1469
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df61d6f864d58ecd0800000000000000
+      internalID: -2528668633133148419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linebtns
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1132
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296ef551514e4e080800000000000000
+      internalID: -9158944962960693614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets-atlas_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 1922
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc32204399128cf0800000000000000
+      internalID: -251610508952453950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1cc0dee40a71372449ee6065e963f5d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BottomCorner: -2702757610216789488
+      HorBar: -2027165910833260326
+      Maxbetbtn: -4712293403843448507
+      ReelsBg: 4318351193013415246
+      Spinbtn: 4041989517964566409
+      Statsbg: 3448283491490151295
+      TopBarSlotsBg: -2528668633133148419
+      TopCorner: 4101488977632611226
+      VerticalBar: -7880910731327828475
+      balancebar: 1208746423152841886
+      infobar: 8816848218061095189
+      linebtns: -9158944962960693614
+      minusicn: 5648078947130772950
+      pets-atlas_15: -251610508952453950
+      plusicn: 1321802569289131160
+      statstextholderBg: -7959163199471900781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

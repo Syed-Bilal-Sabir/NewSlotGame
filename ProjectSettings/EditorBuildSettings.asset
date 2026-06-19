@@ -41,11 +41,17 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5 (BeachTheme).unity
     guid: 2f4a79a4b712e41448668f36aba3ee61
-  - enabled: 1
+  - enabled: 0
     path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5 (SoccerTheme).unity
     guid: e1f8c77883adc88448e800cdb200f127
   - enabled: 0
     path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5 (WildWestTheme).unity
     guid: 566701d422bece14c8c4330d744e46e5
+  - enabled: 1
+    path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5 (PetTheme).unity
+    guid: 87730e3fcf3a62b44b4c0cfef447518d
+  - enabled: 0
+    path: Assets/1_ModernSuitsSlotAsset/Scenes_Modern/2_Slot_3X5 (nORSETheme).unity
+    guid: a4e442b0de3df904a8c4445069abd84c
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
